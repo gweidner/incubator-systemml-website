@@ -35,7 +35,7 @@ limitations under the License.
   <div class="ml-container">
     <div class="col col-12 content-group content-group--medium-bottom-margin" markdown="1">
 
-The **Apache SystemML 0.15.0 release** was approved on September 12, 2017. It is the first release of Apache SystemML since it
+The **Apache SystemML 0.15.0 release** was approved on September 13, 2017. It is the first release of Apache SystemML since it
 [became a Top-Level Project (TLP)](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces13) on May 31, 2017. Updates have been made to the project in several areas, as detailed below.
 
 
